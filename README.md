@@ -4,16 +4,6 @@
 
 <br />
 
-
-<p>
-  Na <strong>ArthurLabs</strong>, meu papel é entender o que uma empresa precisa e levar isso
-  para o software: um sistema para organizar a operação, uma integração para reduzir
-  trabalho manual ou uma aplicação para um novo serviço. Participo da definição da solução,
-  do desenvolvimento e da publicação.
-</p>
-
-<br />
-
 <p><samp>TECNOLOGIAS</samp></p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
